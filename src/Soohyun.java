@@ -1,3 +1,5 @@
+//자바과제아님
+
 import java.util.Scanner;
 
 public class Soohyun {
